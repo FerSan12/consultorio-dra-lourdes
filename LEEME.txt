@@ -1,0 +1,5 @@
+Tarjeta digital de la Dra. Lourdes Rodríguez.
+Publica todos los archivos de esta carpeta en un alojamiento estático como GitHub Pages o Netlify.
+Una vez publicada y obtenida la URL pública definitiva, genera un QR apuntando a esa URL.
+Los enlaces de Google Maps son búsquedas por dirección: verificar los pines antes de compartir.
+El sitio incluye logotipo, fotografía de compresión auricular, correo y odontología oncológica.
