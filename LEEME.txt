@@ -1,5 +1,1 @@
-Tarjeta digital de la Dra. Lourdes Rodríguez.
-Publica todos los archivos de esta carpeta en un alojamiento estático como GitHub Pages o Netlify.
-Una vez publicada y obtenida la URL pública definitiva, genera un QR apuntando a esa URL.
-Los enlaces de Google Maps son búsquedas por dirección: verificar los pines antes de compartir.
-El sitio incluye logotipo, fotografía de compresión auricular, correo y odontología oncológica.
+Sube TODOS los archivos de esta carpeta a la raíz de tu repositorio GitHub. Reemplaza index.html, logo.jpg, compresion_auricular.jpg y contacto.vcf existentes. No subas solo el ZIP. URL: https://fersan12.github.io/consultorio-dra-lourdes/
